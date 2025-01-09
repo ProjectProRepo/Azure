@@ -1,5 +1,4 @@
-# ⚡ Welcome to the Azure Repository! ⚡
-
+# <p align="center"> ⚡ Welcome to the Azure Repository! ⚡</p>
 This repository is your one-stop shop for learning and growth in the Azure ecosystem. It is packed with a list of resources, practical guides, and real-world projects to help you excel in Azure cloud computing.
 
 
@@ -97,10 +96,9 @@ Enhance your Azure expertise with complimentary tools and guides:
 - [Download Azure Data Factory Interview Questions and Answers PDF](https://www.projectpro.io/free-learning-resources/azure-data-factory-interview-questions-and-answers-pdf)
 
   <p align="center">
-  <a href=" https://www.projectpro.io/learning-paths/azure-roadmap" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Explore%20the%20Learning%20Path-28a745?style=for-the-badge&logo=none&logoColor=white" alt="Explore the Learning Path">
+  <a href="https://www.projectpro.io/learning-paths/azure-roadmap" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Check%20out%20the%20learning%20path-28a745?style=for-the-badge&logo=none&logoColor=white" alt="Check out the learning path">
   </a>
-  
 </p>
 
 ## 💬 Contact Us  
